@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/30334760/190547124-a3f1d374-5711-4812-9549-9a38d1e39c64.gif" alt=" Oi! eu sou o lucas apaixonado por tecnologia para o alto e avante" >
+  <img src="https://user-images.githubusercontent.com/30334760/190549922-787d2233-4ad0-4a8b-ab00-8ef7a8ed3243.gif" alt=" Oi! eu sou o lucas apaixonado por tecnologia para o alto e avante" >
 </p>
 
 <div align="center">
