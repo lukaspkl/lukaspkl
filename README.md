@@ -1,4 +1,8 @@
-## Opaaa bãão? eu sou Lucas Martins!
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/30334760/190547124-a3f1d374-5711-4812-9549-9a38d1e39c64.gif" alt=" Oi! eu sou o lucas apaixonado por tecnologia para o alto e avante" >
+</p>
+
 <div align="center">
   <a href="https://github.com/lukaspkl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukaspkl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
