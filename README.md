@@ -3,12 +3,6 @@
   <img src="https://user-images.githubusercontent.com/30334760/190549922-787d2233-4ad0-4a8b-ab00-8ef7a8ed3243.gif" alt=" Oi! eu sou o lucas apaixonado por tecnologia para o alto e avante" >
 </p>
 
-<div align="center">
-  <a href="https://github.com/lukaspkl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukaspkl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaspkl&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 
 
 <div align="center">
@@ -23,10 +17,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=white" />
 </div><br/>
-
-
-
- 
 
   <div align="center">
   
